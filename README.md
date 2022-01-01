@@ -1,4 +1,7 @@
-### Hi there 👋
+### Will Carpenter 👋
+
+Here is a link to my resume:
+
 
 <!--
 **wrcarpenter/wrcarpenter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
