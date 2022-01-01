@@ -1,4 +1,4 @@
-### Will Carpenter 👋
+### Will Carpenter
 
 Here is a link to my resume:
 
