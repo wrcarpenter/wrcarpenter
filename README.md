@@ -1,5 +1,7 @@
 ### Will Carpenter
 
+Slow is smooth, smooth is fast.
+
 Here is a link to my resume:
 
 
