@@ -1,8 +1,8 @@
 ### Will Carpenter
 
-Slow is smooth, smooth is fast.
+Good, better, best. Never it rest. 'Til your good is your better and your better is best.
 
-Here is a link to my resume:
+
 
 
 <!--
