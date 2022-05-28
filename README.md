@@ -6,7 +6,7 @@ Links:<br/>
 [Resume](https://github.com/wrcarpenter/Resume)<br/>
 [Linkedin Profile](https://www.linkedin.com/in/williamrcarpenter/)<br/>
 [Visual Art](https://www.instagram.com/carpenterthepainter/)
-
+[Spotify](https://open.spotify.com/user/williamrcarpenter)
 
 
 <!--
