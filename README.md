@@ -2,12 +2,9 @@
 
 Good, better, best. Never it rest. 'Til your good is your better and your better is best.
 
-Links:
-
-[Resume](https://github.com/wrcarpenter/Resume)
-
-[Linkedin](https://www.linkedin.com/in/williamrcarpenter/)
-
+Links:<br/>
+[Resume](https://github.com/wrcarpenter/Resume)<br/>
+[Linkedin Profile](https://www.linkedin.com/in/williamrcarpenter/)<br/>
 [Visual Art](https://www.instagram.com/carpenterthepainter/)
 
 
