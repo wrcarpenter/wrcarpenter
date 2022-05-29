@@ -5,7 +5,7 @@ Good, better, best. Never it rest. 'Til your good is your better and your better
 Links:<br/>
 [Resume](https://github.com/wrcarpenter/Resume)<br/>
 [Linkedin](https://www.linkedin.com/in/williamrcarpenter/)<br/>
-[Visual Art](https://www.instagram.com/carpenterthepainter/)<br/>
+[Visual Art](https://www.instagram.com/carpenterthepainter/) ->   carpenterthepainter@gmail.com <br/>
 [Spotify](https://open.spotify.com/user/williamrcarpenter)
 
 
