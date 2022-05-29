@@ -1,13 +1,16 @@
-### Will Carpenter
+## Will Carpenter
 
-Good, better, best. Never it rest. 'Til your good is your better and your better is best.
+>Good, better, best. Never it rest. 'Til your good is your better and your better is best.
+##
 
-Links:<br/>
-[Resume](https://github.com/wrcarpenter/Resume)<br/>
-[Linkedin](https://www.linkedin.com/in/williamrcarpenter/)<br/>
-[Visual Art](https://www.instagram.com/carpenterthepainter/) ->   carpenterthepainter@gmail.com <br/>
-[Spotify](https://open.spotify.com/user/williamrcarpenter)
 
+| Subject | Link | Detail | 
+| --- | --- | --- |
+| Resume | [Link](https://github.com/wrcarpenter/Resume) | - | 
+| Curriculum Vitae | - | - |  
+| LinkedIn |[Link](https://www.linkedin.com/in/williamrcarpenter/) | - | 
+| Visual Arts | [Link](https://www.instagram.com/carpenterthepainter/) | - | 
+| Spotify | [Link](https://open.spotify.com/user/williamrcarpenter) | - | 
 
 <!--
 **wrcarpenter/wrcarpenter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
