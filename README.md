@@ -12,6 +12,17 @@
 | Visual Arts | [Link](https://www.instagram.com/carpenterthepainter/) | - | 
 | Spotify | [Link](https://open.spotify.com/user/williamrcarpenter) | - | 
 
+| Focus Projects |
+| --- |
+|Equity Option Pricing |
+| Interest Rate Models|
+|Fixed Income Valuation|
+| MMA Scraper and Model|
+|Pandemic Bond Pricing| 
+|French Language|
+|Financial History|
+|Visual Arts|
+
 <!--
 **wrcarpenter/wrcarpenter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
