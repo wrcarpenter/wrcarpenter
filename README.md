@@ -9,7 +9,7 @@
 | Resume | [Link](https://github.com/wrcarpenter/Resume) | - | 
 | Curriculum Vitae | - | - |  
 | LinkedIn |[Link](https://www.linkedin.com/in/williamrcarpenter/) | - | 
-| Visual Arts | [Link](https://www.instagram.com/carpenterthepainter/) | - | 
+| Visual Arts | [Instagram](https://www.instagram.com/carpenterthepainter/) | - | 
 | Spotify | [Link](https://open.spotify.com/user/williamrcarpenter) | - | 
 
 | Focus Projects |
