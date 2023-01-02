@@ -18,11 +18,12 @@ Contact me:   wrc4@alumni.princeton.edu
 |[Equity Option Pricing](https://github.com/wrcarpenter/Equity-Derivative-Models/) | 
 | Interest Rate Models|
 |Fixed Income Valuation|
-| MMA Scraper and Model|
-|Pandemic Bond Pricing| 
-|French Language|
+| MMA Bout Model|
+| Whaling Data Analysis|
+|French Language Learning|
 |Financial History|
-|Visual Arts|
+
+
 
 <!--
 **wrcarpenter/wrcarpenter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
