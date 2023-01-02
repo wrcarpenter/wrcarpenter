@@ -4,6 +4,7 @@
 ##
 
 Contact me:   wrc4@alumni.princeton.edu
+Artwork inquiries: carpenterthepainter@gmail.com
 
 | Subject | Link | Detail | 
 | --- | --- | --- |
