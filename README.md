@@ -15,7 +15,7 @@ Contact me:   wrc4@alumni.princeton.edu
 
 | Focus Projects |
 | --- |
-|Equity Option Pricing |
+|[Equity Option Pricing](https://github.com/wrcarpenter/Equity-Derivative-Models/) | 
 | Interest Rate Models|
 |Fixed Income Valuation|
 | MMA Scraper and Model|
