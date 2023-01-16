@@ -20,8 +20,8 @@ Artwork inquiries: carpenterthepainter@gmail.com
 |[Equity Option Pricing](https://github.com/wrcarpenter/Equity-Derivative-Models/) | 
 | Interest Rate Models|
 |Fixed Income Valuation|
-| MMA Bout Model|
-| Whaling Data Analysis|
+| MMA Handicapping Model|
+| Whaling History, Data Analysis|
 |French Language Learning|
 |Financial History|
 
