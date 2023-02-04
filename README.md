@@ -13,11 +13,10 @@ Artwork inquiries: carpenterthepainter@gmail.com
 | Curriculum Vitae | - | - |  
 | LinkedIn |[Link](https://www.linkedin.com/in/williamrcarpenter/) | - | 
 | Visual Arts | [Instagram](https://www.instagram.com/carpenterthepainter/) | - | 
-| Spotify | [Link](https://open.spotify.com/user/williamrcarpenter) | - | 
 
-| Focus Projects |
+| Main Projects |
 | --- |
-|[Equity Option Pricing](https://github.com/wrcarpenter/Equity-Derivative-Models/) | 
+|[Equity Option Derivative Pricing](https://github.com/wrcarpenter/Equity-Derivative-Models/) | 
 | Interest Rate Models|
 |Fixed Income Valuation|
 | MMA Handicapping Model|
