@@ -16,10 +16,10 @@ Artwork inquiries: carpenterthepainter@gmail.com
 
 | Main Projects |
 | --- |
-|[Equity Option Derivative Pricing](https://github.com/wrcarpenter/Equity-Derivative-Models/) | 
+|[Equity Derivative Pricing](https://github.com/wrcarpenter/Equity-Derivative-Models/) | 
+| [MMA Handicapping Model](https://github.com/wrcarpenter/MMA-Handicapping-Model) |
+|[Fixed Income Valuation](https://github.com/wrcarpenter/Fixed-Income-Valuation)|
 | Interest Rate Models|
-|Fixed Income Valuation|
-| MMA Handicapping Model|
 | Whaling History, Data Analysis|
 |French Language Learning|
 |Financial History|
