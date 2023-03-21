@@ -3,9 +3,9 @@
 >Good, better, best. Never it rest. 'Til your good is your better and your better is best.
 ##
 
-Contact me:         wrc4@alumni.princeton.edu
+**Contact me**:         wrc4@alumni.princeton.edu
 
-Artwork inquiries: carpenterthepainter@gmail.com
+**Artwork inquiries**: carpenterthepainter@gmail.com
 
 | Subject | Link | Detail | 
 | --- | --- | --- |
