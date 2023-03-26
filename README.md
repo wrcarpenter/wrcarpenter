@@ -24,6 +24,8 @@
 |French Language Learning|
 |Financial History|
 
+Projects to add: Poker Bot, ETF Trading
+
 
 
 <!--
