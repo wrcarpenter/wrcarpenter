@@ -26,7 +26,7 @@ Thanks for stopping by! I work full time in the mortgage-backed securities indus
 |French Language Learning|
 |Financial History|
 
-Projects to add: Poker Bot, ETF Trading
+Projects to add: Poker Bot, ETF Trading, ABS Auto Research
 
 
 
