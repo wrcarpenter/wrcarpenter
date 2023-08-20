@@ -5,8 +5,6 @@
 
 Thanks for stopping by! I work full time in the mortgage-backed securities industry and have a side passion for programming and visual arts.  
 
-**Resume**: [link]
-
 **Contact me**:         wrc4@alumni.princeton.edu
 
 **Artwork inquiries**: carpenterthepainter@gmail.com
