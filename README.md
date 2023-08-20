@@ -9,27 +9,6 @@ Thanks for stopping by! I work full time in the mortgage-backed securities indus
 
 **Artwork inquiries**: carpenterthepainter@gmail.com
 
-| Subject | Link | Detail | 
-| --- | --- | --- |
-| Resume | [Link](https://github.com/wrcarpenter/Resume) | - | 
-| Curriculum Vitae | - | - |  
-| LinkedIn |[Link](https://www.linkedin.com/in/williamrcarpenter/) | - | 
-| Visual Arts | [Instagram](https://www.instagram.com/carpenterthepainter/) | - | 
-
-| Main Projects |
-| --- |
-|[Equity Derivative Pricing](https://github.com/wrcarpenter/Equity-Derivative-Models/) | 
-| [MMA Handicapping Model](https://github.com/wrcarpenter/MMA-Handicapping-Model) |
-|[Fixed Income Valuation](https://github.com/wrcarpenter/Fixed-Income-Valuation)|
-| Interest Rate Models|
-| Whaling History, Data Analysis|
-|French Language Learning|
-|Financial History|
-
-Projects to add: Poker Bot, ETF Trading, ABS Auto Research
-
-
-
 <!--
 **wrcarpenter/wrcarpenter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
