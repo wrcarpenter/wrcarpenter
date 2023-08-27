@@ -9,6 +9,8 @@ Thanks for stopping by! I work full time in the mortgage-backed securities indus
 
 **Artwork inquiries**: carpenterthepainter@gmail.com
 
+Future projects of interest: hospital pricing transparency, poker bot, whaling, inflation derivatives. 
+
 <!--
 **wrcarpenter/wrcarpenter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
