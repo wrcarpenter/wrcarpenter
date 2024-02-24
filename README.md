@@ -11,6 +11,8 @@ Focus Projects: MMA Betting, Equity Derivatives, Fixed Income Valuation, Reverse
 
 **Artwork inquiries**: carpenterthepainter@gmail.com
 
+**Personal Website**: [Link](https://wrcarpenter.github.io/wcarpenter.github.io/)   (in progress)
+
 Future projects of interest: hospital pricing transparency, poker bot, whaling, inflation derivatives. 
 
 <!--
