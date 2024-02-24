@@ -11,7 +11,7 @@ Focus Projects: MMA Betting, Equity Derivatives, Fixed Income Valuation, Reverse
 |---|---|
 | **Contact me** | wrc4@alumni.princeton.edu |
 | **Artwork inquiries** | carpenterthepainter@gmail.com |
-| **Personal Website** | [Link](https://wrcarpenter.github.io/wcarpenter.github.io/)   (in progress) |
+| **Personal Website** | [Link](https://wrcarpenter.github.io/wcarpenter.github.io/){:target="_blank"}   (in progress) |
 
 Future projects of interest: hospital pricing transparency, poker bot, whaling, inflation derivatives. 
 
