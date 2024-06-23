@@ -5,7 +5,7 @@
 
 Thanks for stopping by! I work full time in the mortgage-backed securities industry and have a side passion for programming and visual arts.  
 
-Focus Projects: MMA Betting, Equity Derivatives, Fixed Income Valuation, Reverse Mortgage MBS Pricing.
+Focus Projects: MMA Betting, Interest Rate Models, Pythonic Poker.
 
 |   |   |
 |---|---|
@@ -13,7 +13,7 @@ Focus Projects: MMA Betting, Equity Derivatives, Fixed Income Valuation, Reverse
 | **Artwork inquiries** | carpenterthepainter@gmail.com |
 | **Personal Website** | [Link](https://wrcarpenter.github.io/wcarpenter.github.io/)  (in progress) |
 
-Future projects of interest: hospital pricing transparency, poker bot, whaling, inflation derivatives. 
+Future projects of interest: hospital pricing transparency, whaling, inflation derivatives. 
 
 <!--
 **wrcarpenter/wrcarpenter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
