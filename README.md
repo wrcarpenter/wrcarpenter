@@ -1,4 +1,4 @@
-## Will Carpenter
+## WILL CARPENTER
 
 >Good, better, best. Never it rest. 'Til your good is your better and your better is best.
 ##
