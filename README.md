@@ -1,6 +1,13 @@
 ## WILL CARPENTER
 
->Good, better, best. Never it rest. 'Til your good is your better and your better is best.
+Good, better, best. Never it rest. 'Til your good is your better and your better is best.
+
+To see far is one thing, going there is another. - Constantin Brancusi
+
+Plans are useless, but planning is indispensable. - Dwight D. Eisenhower
+
+We didn't come here to take part, we came here to take over! - Conor Mcgregor
+
 ##
 
 Thanks for stopping by! I work full time in the mortgage-backed securities industry and have a side passion for programming and visual arts.  
