@@ -6,7 +6,7 @@ Focus Projects: MMA Betting, Interest Rate Models, Pythonic Poker.
 ##
 **Contact me:** wrc4@alumni.princeton.edu 
 
-**Resume:** [Here](https://github.com/wrcarpenter/Resume/blob/main/William_Carpenter_Resume_Jan26.pdf)
+**Resume:** [Here](https://github.com/wrcarpenter/Resume/blob/main/William_Carpenter_Resume_Jan26.pdf) (last updated 1/2026)
 
 **LinkedIn:** www.linkedin.com/in/williamrcarpenter/
 
