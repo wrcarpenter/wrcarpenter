@@ -10,7 +10,7 @@ Focus Projects: MMA Betting, Interest Rate Models, Pythonic Poker.
 
 **LinkedIn:** www.linkedin.com/in/williamrcarpenter/
 
-**Kaggle:** TBD
+**Kaggle:** https://www.kaggle.com/wrcarpenter
 
 **Artwork inquiries:** carpenterthepainter@gmail.com
 
